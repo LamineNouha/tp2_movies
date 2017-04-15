@@ -16,7 +16,7 @@
     "bcrypt": "^1.0.2",
     "body-parser": "^1.5.2",
     "express": "^4.14.1",
-    "mongoose": "~4.4",
+    "mongoose": "^4.4.20",
     "validator": "^7.0.0"
   },
   "devDependencies": {

@@ -8,6 +8,7 @@ var actors = require('../routes/actors');
 var movies = require('../routes/movies');
 
 
+
 // Actors routes
 app.route('/actors')
 .get(actors.getAll)

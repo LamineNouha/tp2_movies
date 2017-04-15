@@ -12,11 +12,11 @@ module.exports = function(){
           } else {
             var maxId = maxInstance.id || 0;
             instance.id = maxId + 1;
-            done();
+          done();
           }
         });
       } else {
-        done();
+         done();
       }
     });
   }
